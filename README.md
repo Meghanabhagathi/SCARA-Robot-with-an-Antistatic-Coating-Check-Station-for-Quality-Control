@@ -1,0 +1,2 @@
+# SCARA-Robot-with-an-Antistatic-Coating-Check-Station-for-Quality-Control
+A SCARA-based automation system designed to handle metal samples and perform antistatic coating resistance checks for quality control. The system integrates robotic pick-and-place operations with a proposed resistance measurement station to classify samples as GOOD or REJECT, supporting consistent inspection and quality monitoring.
